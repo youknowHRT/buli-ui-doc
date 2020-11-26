@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{372:function(n,t,e){"use strict";e.r(t);var u={name:"test",data:function(){return{}}},c=e(42),a=Object(c.a)(u,(function(){var n=this.$createElement,t=this._self._c||n;return t("div",{},[t("bu-checkbox")],1)}),[],!1,null,null,null);t.default=a.exports}}]);
